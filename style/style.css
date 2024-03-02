@@ -1,11 +1,5 @@
 @charset "UTF-8";
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
-@font-face {
-    font-family: 'Idroid';
-    src: url('fontes/idroid.otf') format('truetype');                
-}        
  body{
     background-color: #55828B;
     color: #ffffff; 
