@@ -61,7 +61,7 @@ p > a{
     font-size: 16px;
 }    
 main > h2,h3{            
-    font-family: 'Idroid', Helvetica, sans-serif;
+    font-family: Idroid, Helvetica, sans-serif;
     color: #364958;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.222);
 }        
